@@ -1,0 +1,4 @@
+{
+    "vetur.validation.interpolation": true,
+    "vetur.validation.template": false
+}
